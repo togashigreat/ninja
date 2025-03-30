@@ -1,6 +1,6 @@
 # Ninja
 
-Ninja is a small build system with a focus on speed.
+Ninja is a build system with a focus on speed.
 https://ninja-build.org/
 
 See [the manual](https://ninja-build.org/manual.html) or
